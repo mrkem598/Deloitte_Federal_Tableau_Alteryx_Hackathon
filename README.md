@@ -10,3 +10,17 @@ The Federal Tableau + Alteryx Hackathon is a chance for federal practitioners to
 ***
 # Team 8 Members
 ***
+*
+*
+*
+*
+*
+***
+# Project Story
+***
+
+ 
+·       Comparing SSDI disability requests against chronic illnesses and economic status
+·       Analysis within CDI (e.g. smoking and asthma correlation, or alcohol consumption against alcohol taxes and laws)
+·       Comparing CDI factors with drug overdose statistics
+·       Noticed that rates for high school alcohol and TV use consistently dropped – hypothesis is that this is being replaced by phone/computer use (interesting concept but data is pretty sparse)
