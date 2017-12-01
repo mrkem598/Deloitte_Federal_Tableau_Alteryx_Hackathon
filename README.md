@@ -10,11 +10,11 @@ The Federal Tableau + Alteryx Hackathon is a chance for federal practitioners to
 ***
 # Team 8 Members
 ***
-*
-*
-*
-*
-*
+* Moh
+* Stev
+* Abie
+* Sachin
+
 ***
 # Project Story
 ***
