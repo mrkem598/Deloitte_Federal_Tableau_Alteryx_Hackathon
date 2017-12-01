@@ -1,6 +1,7 @@
 ***
 # Deloitte_Federal_Tableau_Alteryx_Hackathon
 ***
+![deloitte](https://user-images.githubusercontent.com/23619819/33480411-ba66c87a-d65e-11e7-85cf-07319d7f2d06.PNG)
 Deloitte Federal Tableau Alliance and Alteryx Community of Practice would like to invite all federal practitioners to a Tableau + Alteryx hackathon to showcase innovative analytical and visualization talents across all functions, service areas, and service lines.  
 ***
 # Event Details 
