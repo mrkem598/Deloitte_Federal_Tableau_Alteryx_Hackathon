@@ -23,3 +23,10 @@ The Federal Tableau + Alteryx Hackathon is a chance for federal practitioners to
 ### Analysis within CDI (e.g. smoking and asthma correlation, or alcohol consumption against alcohol taxes and laws)
 ### Comparing CDI factors with drug overdose statistics
 ### Noticed that rates for high school alcohol and TV use consistently dropped – hypothesis is that this is being replaced by phone/computer use (interesting concept but data is pretty sparse)
+
+***
+# Project Submision Format
+***
+### PPT slides (2 – one for methodology, one for findings)
+### Packaged Tableau workbook extract in zipped file
+### Packaged Alteryx workflow
