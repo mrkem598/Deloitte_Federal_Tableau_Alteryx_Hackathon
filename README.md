@@ -32,7 +32,7 @@ The Federal Tableau + Alteryx Hackathon is a chance for federal practitioners to
 ### Packaged Tableau workbook extract in zipped file
 ### Packaged Alteryx workflow
 ***
-License
+Privacy License
 ---
 ***
 * Deloitte Federal Copyright 2017
